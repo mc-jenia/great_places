@@ -1,4 +1,4 @@
-const googleApiKey = 'AIzaSyCnFi9CYzRJg3t51LB9ULl0tTiZ2OnZGcQ';
+const googleApiKey = 'PUT YOUR API HERE';
 
 class LocationHelper {
   static String generateLocationPreviewImage(
