@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:great_places/models/place.dart';
 import 'package:great_places/providers/great_places_provider.dart';
 import 'package:great_places/screens/map_screen.dart';
 import 'package:provider/provider.dart';
